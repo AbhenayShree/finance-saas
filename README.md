@@ -4,7 +4,8 @@ A web application for managing personal finances,built with Next.js, React, and 
 
 Features include transaction tracking, CSV upload, and bank integration.
 
-Key Highlights
+Key Highlights:
+
 ●User Dashboard: Provides an intuitive overview of financial health, displaying key metrics and interactive charts.
 
 ●Transaction Management: Allows easy addition, editing, and deletion of transactions, with CSV upload for bulk import.
