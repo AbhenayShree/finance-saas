@@ -1,5 +1,6 @@
 FINANCE SAAS WEBSITE
 A web application for managing personal finances,built with Next.js, React, and Hono.js.
+
 Features include transaction tracking, CSV upload, and bank integration.
 
 Key Highlights
